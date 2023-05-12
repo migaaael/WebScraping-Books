@@ -4,3 +4,6 @@ For my first web-scraping project I used the **requests** and **BeautifulSoup4**
 
 ### Documents
 I have uploaded the code I used (_web_scraping.py_) and my notes on web-scraping (_Día 11 - Web Scraping_).
+
+### Notes
+I normally use PyCharm for developing my projects, I find it friendlier than Visual Studio and has an interface that makes working with GitHub easier.
