@@ -1,5 +1,4 @@
 # Web-Scraping: Books to Scrape
----
 For my first web-scraping project I used the **requests** and **BeautifulSoup4** modules. I simply scraped one of the web-pages availabe at **to.scrape.com** called
 'Books to Scrape' and retrieved the titles of the books that had 4 or 5 stars in their reviews.
 
